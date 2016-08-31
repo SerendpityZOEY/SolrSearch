@@ -124,7 +124,7 @@ public class MainActivity extends AppCompatActivity {
                     commitObj.put(str.substring(0,ind),str.substring(ind+1));
                 }
                 mDatabase.child("item_click").push().setValue(commitObj);
-
+                //Select Content
                 Bundle bundle = new Bundle();
                 bundle.putString(FirebaseAnalytics.Param.ITEM_ID, commitObj.get("Email"));
                 bundle.putString(FirebaseAnalytics.Param.ITEM_NAME, commitObj.get("Repo"));
