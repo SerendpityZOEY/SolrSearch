@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyFirstApp.iml" filepath="$PROJECT_DIR$/MyFirstApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httpclient-4.5.2/httpclient-4.5.2.iml" filepath="$PROJECT_DIR$/httpclient-4.5.2/httpclient-4.5.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httpcore-4.4.4/httpcore-4.4.4.iml" filepath="$PROJECT_DIR$/httpcore-4.4.4/httpcore-4.4.4.iml" />
+    </modules>
+  </component>
+</project>
